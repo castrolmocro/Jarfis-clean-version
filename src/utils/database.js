@@ -14,6 +14,7 @@ const User = sequelize.define("User", {
   exp: { type: DataTypes.INTEGER, defaultValue: 0 },
   money: { type: DataTypes.INTEGER, defaultValue: 0 },
   banned: { type: DataTypes.BOOLEAN, defaultValue: false },
+  warnings: { type: DataTypes.INTEGER, defaultValue: 0 },
   joinedAt: { type: DataTypes.DATE, defaultValue: DataTypes.NOW },
 });
 

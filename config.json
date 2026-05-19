@@ -1,0 +1,29 @@
+{
+  "botName": "jarfis",
+  "prefix": "/",
+  "ownerID": "",
+  "adminIDs": [],
+  "dashboardPort": 5000,
+  "timezone": "Africa/Algiers",
+  "dashboardPassword": "djamel2025*",
+  "humanTyping": {
+    "enable": true
+  },
+  "stealth": {
+    "enable": true
+  },
+  "mqttHealthCheck": {
+    "enable": true
+  },
+  "keepAlive": {
+    "enable": true
+  },
+  "groupEvents": {
+    "welcomeMessage": "",
+    "leaveMessage": ""
+  },
+  "backupIntervalMinutes": 60,
+  "cronJobs": [],
+  "commandRoles": {},
+  "userAgent": "Mozilla/5.0 (Linux; Android 12; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36"
+}

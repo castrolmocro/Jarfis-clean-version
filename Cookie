@@ -1,25 +1,119 @@
-⚠️ إشعار تقني من Meta Security
-
-[إجراء أمني مؤتمت]
-
-لقد تم اكتشاف استخدام أدوات برمجية غير مصرح بها (Bot Detection).
-
-
-
-نوع المخالفة: استخدام "مستخدم بوت" للتفاعل مع حسابات محمية.
-
-الإجراء المتخذ: تم أخذ نسخة احتياطية من سجل الدردشة (Logs) كدليل تقني.
-
-الحالة: جاري إرسال بلاغ تقني شامل إلى قسم "نزاهة المنصة" في Facebook.
-
-تفاصيل العملية:
-
-
-
-المعرف الرقمي للبلاغ: #META-8842-TRK
-
-
-
-الهدف: مراجعة نشاط الحساب وإمكانية تقييد الوصول.
-
-[نظام Meta المؤتمت - لا ترد على هذه الرسالة]
+[
+	{
+		"key": "sb",
+		"value": "UR4Iav9dCNDeSNAtWoJUaG-1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-17T11:35:52.503Z",
+		"lastAccessed": "2026-05-17T11:35:52.509Z"
+	},
+	{
+		"key": "locale",
+		"value": "ar_AR",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-17T11:35:52.509Z",
+		"lastAccessed": "2026-05-17T11:35:52.509Z"
+	},
+	{
+		"key": "pas",
+		"value": "61586572625688%3Asdms1RHomP",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-17T11:35:52.509Z",
+		"lastAccessed": "2026-05-17T11:35:52.509Z"
+	},
+	{
+		"key": "wl_cbv",
+		"value": "v2%3Bclient_version%3A3162%3Btimestamp%3A1778916990",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-17T11:35:52.509Z",
+		"lastAccessed": "2026-05-17T11:35:52.509Z"
+	},
+	{
+		"key": "vpd",
+		"value": "v1%3B754x393x2.75",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-17T11:35:52.509Z",
+		"lastAccessed": "2026-05-17T11:35:52.509Z"
+	},
+	{
+		"key": "dpr",
+		"value": "2.75",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-17T11:35:52.509Z",
+		"lastAccessed": "2026-05-17T11:35:52.509Z"
+	},
+	{
+		"key": "ps_l",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-17T11:35:52.509Z",
+		"lastAccessed": "2026-05-17T11:35:52.509Z"
+	},
+	{
+		"key": "ps_n",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-17T11:35:52.509Z",
+		"lastAccessed": "2026-05-17T11:35:52.509Z"
+	},
+	{
+		"key": "wd",
+		"value": "980x1880",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-17T11:35:52.509Z",
+		"lastAccessed": "2026-05-17T11:35:52.509Z"
+	},
+	{
+		"key": "c_user",
+		"value": "61589770358193",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-17T11:35:52.509Z",
+		"lastAccessed": "2026-05-17T11:35:52.509Z"
+	},
+	{
+		"key": "datr",
+		"value": "BXoJasKKqCu5UxEQf-3sy50l",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-17T11:35:52.510Z",
+		"lastAccessed": "2026-05-17T11:35:52.510Z"
+	},
+	{
+		"key": "oo",
+		"value": "v1%7C3%3A1779010879",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-17T11:35:52.510Z",
+		"lastAccessed": "2026-05-17T11:35:52.510Z"
+	},
+	{
+		"key": "xs",
+		"value": "18%3ALdKE3kFSXVgrSg%3A2%3A1779005955%3A-1%3A-1%3A%3AAcxYZh75fRTt5qHXZtR2SwvrubFArfnE_xlytUXXAw",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-05-17T11:35:52.510Z",
+		"lastAccessed": "2026-05-17T11:35:52.510Z"
+	}
+]
